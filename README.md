@@ -56,7 +56,6 @@ Useful for targeted campaigns and retailer partnerships.
 
 ---
 ![Analysis](analysis.png)
-![Charts](image.png)
 
 ---
 ## 📂 Datasets Used
